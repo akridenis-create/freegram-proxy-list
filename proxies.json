@@ -1,1 +1,16 @@
+{
+  "update_interval": 1800,
+  "channels": [
+    "ProxyMTProto", "tgProxies", "Z_Proxies", "MTProtoProxies", "ProxyMTP", 
+    "DailyProxy", "ProxyVip", "MTP_ro", "MTP_remo", "Proxy_MTProto",
+    "Tel_Proxy", "Proxy_Modern", "Mtproto_Proxy", "Proxy_Line", "FreshProxy",
+    "PremiumProxy", "ProxyMTProto_Tel", "MTP_Proxy", "BestProxy", "StrongProxy",
+    "SProxy", "PinkProxy", "Proxy_Server", "Proxy_Socks5", "FastProxy",
+    "Proxy_World", "Proxy_List", "TelegramProxy", "MTP_Update", "Proxy_Home",
+    "Proxy_Hub", "TopProxy", "GoldProxy", "StarProxy", "Proxy_Network",
+    "EasyProxy", "FreeProxy", "CoolProxy", "MarsProxy", "ZeroProxy",
+    "NordProxy", "MegaProxy", "DeltaProxy", "AlphaProxy", "BetaProxy",
+    "SigmaProxy", "EliteProxy", "PrimeProxy", "UltraProxy", "MasterProxy"
+  ]
+}
 
